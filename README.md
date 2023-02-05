@@ -39,32 +39,45 @@ argo but my version (DO NOT USE IT!)
 
 Here's a list of the technologies and frameworks I specialize in:
 
-Front-end:
+<br>
+Programming Languages:
 
-🚀  React
-
-⚡ ️ Next.js
-
-💨  Tailwind CSS
-
-💪  Svelte
+![](https://skillicons.dev/icons?i=python,golang,typescript,javascript,java,lua,dart,php)
 
 
 <br>
-Back-end:
+Front-end:
 
-🏃 ️ Go
+![](https://skillicons.dev/icons?i=js,html,css,dart,wasm)
 
-🎯  Nest.js
+![](https://skillicons.dev/icons?i=react,nextjs,tailwindcss,vite,svelte,materialui,bootstrap,flutter)
 
-🔥  Gin
+<br>
+Backend:
 
-🚦  Gorilla Mux
+![](https://skillicons.dev/icons?i=go,nodejs,firebase,supabase)
 
-🌊  Flask
+![](https://skillicons.dev/icons?i=nestjs,flask,fastapi,express,prisma,typeorm,)
 
-⚡ ️ FastAPI
+![](https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb,redis,kafka,rabbitmq)
 
+
+<br>
+Tools:
+
+![](https://skillicons.dev/icons?i=vscode,idea,git,linux,bash)
+
+![](https://skillicons.dev/icons?i=github,stackoverflow,figma,postman,replit,codepen,unity,unreal)
+
+<br>
+Cloud & DevOps:
+
+![](https://skillicons.dev/icons?i=docker,cloudflare,nginx,firebase,linux,vercel,netlify,heroku)
+
+<br>
+Fundamental:
+
+![](https://skillicons.dev/icons?i=k8s,c,cpp,rust,deno)
 
 <br>
 With these technologies, I can deliver modern, high-performance, and scalable web applications. Whether it's building a single-page app, a server-side rendered website, or a RESTful API, I have the experience to get the job done.
