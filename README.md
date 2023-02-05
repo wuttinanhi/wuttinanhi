@@ -1,10 +1,11 @@
-
 # 💻 Hi there 👋
+
 I am a versatile software developer with experience in a variety of programming languages, including JavaScript, TypeScript, Python, Go, and Java. My passion is writing clean, efficient, and maintainable code that solves complex problems.
 
 <br>
 
 ## 🚀 Projects
+
 Here are some of my recent projects:
 
 <a href="https://github.com/wuttinanhi/jrti">wuttinanhi/jrti</a>: I try creating a simple programming language
@@ -44,9 +45,8 @@ Programming Languages:
 
 ![](https://skillicons.dev/icons?i=python,golang,typescript,javascript,java,lua,dart,php)
 
-
 <br>
-Front-end:
+Frontend:
 
 ![](https://skillicons.dev/icons?i=js,html,css,dart,wasm)
 
@@ -55,12 +55,9 @@ Front-end:
 <br>
 Backend:
 
-![](https://skillicons.dev/icons?i=go,nodejs,firebase,supabase)
+![](https://skillicons.dev/icons?i=go,nodejs,python,java,php,nestjs,flask,fastapi,express,prisma)
 
-![](https://skillicons.dev/icons?i=nestjs,flask,fastapi,express,prisma,typeorm,)
-
-![](https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb,redis,kafka,rabbitmq)
-
+![](https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb,redis,kafka,rabbitmq,firebase,supabase)
 
 <br>
 Tools:
@@ -96,7 +93,7 @@ By continually learning and improving my skills, I aim to deliver high-quality s
 
 ## 💬 Get in Touch
 
-Feel free to reach out to me on ______ or ______. I would love to connect with you and discuss tech or anything interesting!
+Feel free to reach out to me on **\_\_** or **\_\_**. I would love to connect with you and discuss tech or anything interesting!
 
 <br>
 
@@ -114,6 +111,6 @@ Follow me on GitHub to see my latest projects and contributions to the open-sour
 
 ## 💖 Thanks for stopping by!
 
-Thanks for visiting my GitHub profile! 
-I hope you found it informative and enjoyable! 
+Thanks for visiting my GitHub profile!
+I hope you found it informative and enjoyable!
 If you have any questions, feel free to reach out! 😊
