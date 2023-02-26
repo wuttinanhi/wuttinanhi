@@ -12,7 +12,7 @@ Here are some of my recent projects:
 
 <a href="https://github.com/wuttinanhi/php-workshop">wuttinanhi/php-workshop</a>: a repo to teach my friends how to code in PHP
 
-<a href="https://github.com/wuttinanhi/workshop-docker-1">wuttinanhi/workshop-docker-1</a>: my docker teaching repo to share with my friends
+<a href="https://github.com/wuttinanhi/docker-workshop">docker-workshop</a>: my docker teaching repo to share with my friends
 
 <a href="https://github.com/wuttinanhi/car-parking-reservation-api">wuttinanhi/car-parking-reservation-api</a>: backend for car parking reservation app (Next.js)
 
