@@ -14,10 +14,10 @@ Here are some of my recent projects:
 
 <a href="https://github.com/wuttinanhi/docker-workshop">wuttinanhi/docker-workshop</a>: my docker teaching repo to share with my friends
 
-<a href="https://github.com/wuttinanhi/car-parking-reservation-api">wuttinanhi/car-parking-reservation-api</a>: backend for car parking reservation app (Next.js)
+<a href="https://github.com/wuttinanhi/car-parking-reservation-api">wuttinanhi/car-parking-reservation-api</a>: backend api for car parking reservation app (Python)
 
 <a href="https://github.com/wuttinanhi/car-parking-reservation-web">wuttinanhi/car-parking-reservation-web</a>:
-frontend for car parking reservation app (Python)
+admin frontend for car parking reservation app (Next.js)
 
 <a href="https://github.com/wuttinanhi/CarParkingReservationApp">wuttinanhi/CarParkingReservationApp</a>:
 mobile app for car parking reservation (React Native)
