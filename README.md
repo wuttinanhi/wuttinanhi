@@ -41,40 +41,8 @@ argo but my version (DO NOT USE IT!)
 Here's a list of the technologies and frameworks I specialize in:
 
 <br>
-Programming Languages:
 
-![](https://skillicons.dev/icons?i=python,golang,typescript,javascript,java,lua,dart,php)
-
-<br>
-Frontend:
-
-![](https://skillicons.dev/icons?i=js,html,css,dart,wasm)
-
-![](https://skillicons.dev/icons?i=react,nextjs,tailwindcss,vite,svelte,materialui,bootstrap,flutter)
-
-<br>
-Backend:
-
-![](https://skillicons.dev/icons?i=go,nodejs,python,java,php,nestjs,flask,fastapi,express,prisma)
-
-![](https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb,redis,kafka,rabbitmq,firebase,supabase)
-
-<br>
-Tools:
-
-![](https://skillicons.dev/icons?i=vscode,idea,git,linux,bash)
-
-![](https://skillicons.dev/icons?i=github,stackoverflow,figma,postman,replit,codepen,unity,unreal)
-
-<br>
-Cloud & DevOps:
-
-![](https://skillicons.dev/icons?i=docker,cloudflare,nginx,firebase,linux,vercel,netlify,heroku)
-
-<br>
-Fundamental:
-
-![](https://skillicons.dev/icons?i=k8s,c,cpp,rust,deno)
+![](https://skillicons.dev/icons?i=python,golang,typescript,javascript,java,lua,php,js,html,css,vscode,idea,git,linux,bash,github,stackoverflow,figma,postman,replit,codepen,unity,unreal,docker,k8s,c,cpp,rust,deno,cloudflare,nginx,firebase,linux,vercel,netlify,react,nextjs,tailwindcss,vite,svelte,materialui,bootstrap,go,nodejs,python,java,php,nestjs,flask,fastapi,express,prisma,mysql,sqlite,postgresql,mongodb,redis,kafka,rabbitmq,firebase,supabase)
 
 <br>
 With these technologies, I can deliver modern, high-performance, and scalable web applications. Whether it's building a single-page app, a server-side rendered website, or a RESTful API, I have the experience to get the job done.
